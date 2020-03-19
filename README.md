@@ -1,8 +1,8 @@
-# covid19
+# covid19-website
 
-OpenMaine project to collect and present COVID-19 resources for Mainers.
+OpenMaine project to collect and present COVID-19 resources for Mainers. This is just the website, e.g., linking to Google docs.
 
-Please join our Slack channel. (Please go to openmaine.org to find a link
+Please join our Slack channel, p-covid19. (Please go to openmaine.org to find a link
 to join our Slack, plus more information about OpenMaine.)
 
 Also, please see the Wiki tab above for more info, as well as Issues.
